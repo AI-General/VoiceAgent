@@ -146,8 +146,7 @@ For inquiries about VoiceAgent or to discuss potential collaborations:
 
 - **Email**: [ruslansumko.pol@gmail.com](mailto:ruslansumko.pol@gmail.com)
 - **WhatsApp**: +1 (404) 839-1154
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/)
-- **GitHub**: [View more projects](https://github.com/)
+- **GitHub**: [View more projects](https://github.com/AI-General)
 
 ---
 
