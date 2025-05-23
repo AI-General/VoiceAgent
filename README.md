@@ -78,7 +78,7 @@ graph TD
 ## 💬 Testimonials
 
 <div align="center">
-  <img src="https://i.imgur.com/y5Qh7Zh.png" width="100" style="border-radius: 50%;" alt="Keith - CEO of Chatmantics">
+  <!-- <img src="https://i.imgur.com/y5Qh7Zh.png" width="100" style="border-radius: 50%;" alt="Keith - CEO of Chatmantics"> -->
   
   <blockquote>
     <p><i>"The VoiceAgent platform developed by Ruslan has transformed our business. The combination of natural-sounding voice technology with intelligent conversation management has allowed our clients to scale their operations while improving customer experience. It's rare to find someone who understands both the technical aspects and business implications of AI implementation so thoroughly."</i></p>
